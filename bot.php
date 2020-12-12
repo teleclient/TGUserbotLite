@@ -1,4 +1,5 @@
 <?php
+
 if ($msg === 'ciao') {
-  sm($chatID, 'ciaone');
+    sm($chatID, 'ciaone');
 }
